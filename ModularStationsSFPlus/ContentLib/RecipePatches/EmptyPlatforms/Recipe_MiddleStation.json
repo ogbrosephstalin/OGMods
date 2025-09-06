@@ -1,0 +1,15 @@
+//ModularStations/Buildables/Middle/Recipe_TrainStationMiddle.Recipe_TrainStationMiddle_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "Middle Station",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 50
+    }
+  ]
+}

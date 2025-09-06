@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Dipped Tinned Wire",
+  "Type": "Alternate",
+  "VisualKit": "Desc_TinnedWire",
+  "Recipes": [ "Recipe_Alternate_DippedTinnedWire" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_0.Schematic_SF+_T3_0_C" ]
+}

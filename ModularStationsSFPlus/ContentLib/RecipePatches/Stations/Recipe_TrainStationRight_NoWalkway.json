@@ -1,0 +1,23 @@
+//ModularStations/Buildables/Station/Recipe_TrainStationRight_NoWalkway.Recipe_TrainStationRight_NoWalkway_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "Train Station No Walkway (Right)",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 20
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 20
+    }
+  ]
+}

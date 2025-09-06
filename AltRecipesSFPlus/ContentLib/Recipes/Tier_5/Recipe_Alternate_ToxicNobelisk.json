@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Toxic Nobelisk",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_NobeliskExplosive",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_PackagedToxicAir",
+            "Amount": 6
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_NobeliskGas",
+            "Amount": 1
+        }
+    ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AssemblerMk1" ]
+}

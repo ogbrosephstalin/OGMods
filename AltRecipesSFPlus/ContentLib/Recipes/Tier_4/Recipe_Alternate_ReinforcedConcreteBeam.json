@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Reinforced Concrete Beam",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 18
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_SteelPlateReinforced",
+            "Amount": 1
+        }
+    ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AssemblerMk1" ]
+}

@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Integrated Circuits",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_Silica",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 40
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 20
+        }                
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 5
+        }
+    ],
+  "ManufacturingDuration": 20,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_ManufacturerMk1" ]
+}

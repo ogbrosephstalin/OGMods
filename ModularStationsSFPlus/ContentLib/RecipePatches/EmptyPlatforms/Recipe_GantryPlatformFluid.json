@@ -1,0 +1,15 @@
+//ModularStations/Buildables/Gantry/Recipe_TrainGantrySideFluid.Recipe_TrainGantrySideFluid_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "Gantry Platform (Fluid Style)",
+  "Ingredients": [
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 50
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Rolled Steel Pipe",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_SteelIngot",
+            "Amount": 15
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 10
+        }
+    ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_ConstructorMk1" ]
+}

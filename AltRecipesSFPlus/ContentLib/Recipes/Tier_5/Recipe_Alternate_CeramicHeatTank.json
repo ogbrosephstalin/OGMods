@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Ceramic-Coated Heat Tank",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 3
+        },
+        {
+            "Item": "Desc_Silica",
+            "Amount": 3
+        }              
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_NC_HotFluid",
+            "Amount": 1
+        }
+    ],
+  "ManufacturingDuration": 2,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AssemblerMk1" ]
+}

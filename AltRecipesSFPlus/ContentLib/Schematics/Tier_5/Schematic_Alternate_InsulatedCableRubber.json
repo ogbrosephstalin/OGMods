@@ -1,0 +1,7 @@
+{
+  "Name": "Insulated Cable (Rubber)",
+  "Type": "Alternate",
+  "VisualKit": "Desc_Cable",
+  "Recipes": [ "Recipe_Alternate_InsulatedCableRubber" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_1.Schematic_SF+_T5_1_C" ]
+}

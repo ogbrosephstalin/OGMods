@@ -1,0 +1,10 @@
+{
+  "Name": "Steel-Cased Rifle Ammo",
+  "Type": "Alternate",
+  "VisualKit": "Desc_CartridgeStandard",
+  "Recipes": [ "Recipe_Alternate_SteelCasedAmmo" ],
+  "DependsOn": [ 
+                  "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_2.Schematic_SF+_T5_2_C",
+                  "/SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/U6/Schematic_Trees_Sulfur_1_5.Schematic_Trees_Sulfur_1_5_C"
+               ]
+}

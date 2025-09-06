@@ -1,0 +1,7 @@
+{
+  "Name": "Reinforced Concrete Beam",
+  "Type": "Alternate",
+  "VisualKit": "Desc_SteelPlateReinforced",
+  "Recipes": [ "Recipe_Alternate_ReinforcedConcreteBeam" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_1.Schematic_SF+_T4_1_C" ]
+}

@@ -1,0 +1,29 @@
+//ProgressiveBlueprinter/Milestones/Tier9_Blueprinter.Tier9_Blueprinter_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+	"Type": "Milestone",
+    "Name": "Fix-It: Huge designs",
+    "ClearDeps": true,
+    "ClearCost": true,
+    "Tier": 6,
+    "DependsOn": ["ProgressiveBlueprinter/Milestones/Tier8_Blueprinter.Tier8_Blueprinter_C"],
+    "Cost": 
+    [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 400
+        },
+        {
+            "Item": "Desc_ComputerSuper",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_ElectromagneticControlRod",
+            "Amount": 250
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 6000
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Cast Iron Pipe",
+  "Type": "Alternate",
+  "VisualKit": "Desc_SteelPipe",
+  "Recipes": [ "Recipe_Alternate_CastIronPipe" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_4.Schematic_SF+_T3_4_C" ]
+}

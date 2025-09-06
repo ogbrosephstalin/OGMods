@@ -1,0 +1,7 @@
+{
+  "Name": "Ceramic-Coated Heat Tank",
+  "Type": "Alternate",
+  "VisualKit": "Desc_NC_HotFluid",
+  "Recipes": [ "Recipe_Alternate_CeramicHeatTank" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_3.Schematic_SF+_T5_3_C" ]
+}

@@ -1,0 +1,22 @@
+//ProgressiveBlueprinter/Recipes/Recipe_BlueprinterX10.Recipe_BlueprinterX10_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+      {
+          "Item": "Desc_ModularFrameHeavy",
+          "Amount": 20
+      },
+      {
+          "Item": "Desc_Computer",
+          "Amount": 10
+      },
+      {
+          "Item": "Desc_SolderWire",
+          "Amount": 100
+      },
+      {
+          "Item": "Desc_Cement",
+          "Amount": 500
+      }
+    ]
+}

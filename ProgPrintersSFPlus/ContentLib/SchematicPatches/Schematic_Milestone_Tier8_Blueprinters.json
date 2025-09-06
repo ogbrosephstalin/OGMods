@@ -1,0 +1,28 @@
+//ProgressiveBlueprinter/Milestones/Tier8_Blueprinter.Tier8_Blueprinter_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+	"Type": "Milestone",
+    "ClearDeps": true,
+    "ClearCost": true,
+    "Tier": 5,
+    "DependsOn": ["ProgressiveBlueprinter/Milestones/Tier7_Blueprinter.Tier7_Blueprinter_C"],
+    "Cost": 
+    [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 200
+        },
+        {
+            "Item": "Desc_Computer",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_SolderWire",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 4000
+        }
+    ]
+}

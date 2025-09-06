@@ -1,0 +1,7 @@
+{
+  "Name": "Integrated Circuits",
+  "Type": "Alternate",
+  "VisualKit": "Desc_CircuitBoard",
+  "Recipes": [ "Recipe_Alternate_IntegratedCircuit" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_2.Schematic_SF+_T5_2_C" ]
+}

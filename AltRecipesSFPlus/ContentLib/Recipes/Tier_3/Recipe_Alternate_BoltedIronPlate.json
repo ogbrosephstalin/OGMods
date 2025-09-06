@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Bolted Iron Plate",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 18
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 50
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 3
+        }
+    ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AssemblerMk1" ]
+}

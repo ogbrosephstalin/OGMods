@@ -1,0 +1,10 @@
+{
+  "Name": "Toxic Nobelisk",
+  "Type": "Alternate",
+  "VisualKit": "Desc_NobeliskGas",
+  "Recipes": [ "Recipe_Alternate_ToxicNobelisk" ],
+  "DependsOn": [ 
+                  "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_3.Schematic_SF+_T5_3_C",
+                  "/SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Sulfur/U6/Schematic_Trees_Sulfur_3_3.Schematic_Trees_Sulfur_3_3_C" 
+               ]
+}

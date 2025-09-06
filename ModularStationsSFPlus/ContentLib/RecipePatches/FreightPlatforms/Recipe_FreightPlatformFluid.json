@@ -1,0 +1,23 @@
+//ModularStations/Buildables/CargoPlatform/Recipe_TrainPlatformDockingSideFluid.Recipe_TrainPlatformDockingSideFluid_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Name": "Fluid Freight Platform",
+  "Ingredients": [
+    {
+      "Item": "Desc_ModularFrameHeavy",
+      "Amount": 5
+    },
+    {
+      "Item": "Desc_SteelPlate",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_Cement",
+      "Amount": 50
+    },
+    {
+      "Item": "Desc_Motor",
+      "Amount": 15
+    }
+  ]
+}

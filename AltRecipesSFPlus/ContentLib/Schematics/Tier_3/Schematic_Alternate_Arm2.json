@@ -1,0 +1,6 @@
+{
+  "Name": "Expanded Toolbelt",
+  "Type": "Alternate",
+  "ArmSlotsToGive": 1,
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_5.Schematic_SF+_T3_5_C" ]
+}

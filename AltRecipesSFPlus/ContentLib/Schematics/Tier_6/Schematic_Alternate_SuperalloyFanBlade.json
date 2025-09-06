@@ -1,0 +1,7 @@
+{
+  "Name": "Superalloy Fan Blade",
+  "Type": "Alternate",
+  "VisualKit": "Desc_FanBlade",
+  "Recipes": [ "Recipe_Alternate_SuperalloyFanBlade" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T6/Schematic_SF+_T6_3.Schematic_SF+_T6_3_C" ]
+}

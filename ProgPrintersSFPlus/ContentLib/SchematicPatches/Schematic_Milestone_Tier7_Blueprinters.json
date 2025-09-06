@@ -1,0 +1,28 @@
+//ProgressiveBlueprinter/Milestones/Tier7_Blueprinter.Tier7_Blueprinter_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+	"Type": "Milestone",
+    "ClearDeps": true,
+    "ClearCost": true,
+    "Tier": 4,
+    "DependsOn": ["/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T4/Schematic_SF+_T4_6.Schematic_SF+_T4_6_C"],
+    "Cost": 
+    [
+        {
+            "Item": "Desc_ModularFrameHeavy",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_SteelBolt",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Cement",
+            "Amount": 2000
+        }
+    ]
+}

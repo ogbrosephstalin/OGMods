@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Dipped Tinned Wire",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_Wire",
+            "Amount": 12
+        },
+        {
+            "Item": "Desc_LiquidTin",
+            "Amount": 6000
+        },
+        {   
+            "Item": "Desc_Air",
+            "Amount": 6000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_TinnedWire",
+            "Amount": 9
+        }
+    ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_SoldifierAndCooler" ]
+}
