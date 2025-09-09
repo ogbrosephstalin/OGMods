@@ -1,0 +1,23 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_UnpackageOil.Recipe_UnpackageOil_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "OverrideCategory": "Petroleum",
+    "Ingredients":
+    [   
+        {
+            "Item": "Desc_PackagedOil",
+            "Amount": 1
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_LiquidOil",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_FluidCanister",
+            "Amount": 1
+        }
+    ]
+}
