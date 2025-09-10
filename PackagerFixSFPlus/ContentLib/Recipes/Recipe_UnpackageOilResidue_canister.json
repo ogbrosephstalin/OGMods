@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Unpacked Heavy Oil Residue",
+    "OverrideCategory": "Cat_Unpackaging_Canister",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_PackagedOilResidue",
+            "Amount": 1
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_FluidCanister",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 10,
+    "ProducedIn": [ "Build_AB_FluidPacker" ]
+}

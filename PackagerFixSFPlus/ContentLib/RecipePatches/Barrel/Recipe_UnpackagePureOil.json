@@ -1,14 +1,14 @@
 //KLib/Assets/Parts/Packaged/Recipes/UnPackaged/Recipe_UnPackaged_PurifiedCrudeOil.Recipe_UnPackaged_PurifiedCrudeOil_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "OverrideCategory": "Petroleum",
     "Ingredients":
-    [   
+    [
         {
             "Item": "Desc_PackagedPurifiedCrudeOil",
             "Amount": 1
         }
     ],
+
     "Products":
     [
         {

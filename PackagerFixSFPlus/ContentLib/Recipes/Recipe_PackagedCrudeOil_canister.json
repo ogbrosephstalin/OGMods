@@ -1,10 +1,11 @@
-//KLib/Assets/Parts/Packaged/Recipes/Packaged/Recipe_Packaged_PurifiedCrudeOil.Recipe_Packaged_PurifiedCrudeOil_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Packaged Crude Oil",
+    "OverrideCategory": "Cat_Packaging_Canister",
     "Ingredients":
     [
         {
-            "Item": "Desc_PurifiedCrudeOil",
+            "Item": "Desc_LiquidOil",
             "Amount": 1000
         },
         {
@@ -15,8 +16,11 @@
     "Products":
     [
         {
-            "Item": "Desc_PackagedPurifiedCrudeOil",
+            "Item": "Desc_PackagedOil",
             "Amount": 1
         }
-    ]
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 10,
+    "ProducedIn": [ "Build_AB_FluidPacker" ]
 }

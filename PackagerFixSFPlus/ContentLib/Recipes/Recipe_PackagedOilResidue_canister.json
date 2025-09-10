@@ -1,11 +1,11 @@
-//Game/FactoryGame/Recipes/OilRefinery/Recipe_PackagedCrudeOil.Recipe_PackagedCrudeOil_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "OverrideCategory": "Petroleum",
+    "Name": "Packaged Heavy Oil Residue",
+    "OverrideCategory": "Cat_Packaging_Canister",
     "Ingredients":
     [
         {
-            "Item": "Desc_LiquidOil",
+            "Item": "Desc_HeavyOilResidue",
             "Amount": 1000
         },
         {
@@ -16,8 +16,11 @@
     "Products":
     [
         {
-            "Item": "Desc_PackagedOil",
+            "Item": "Desc_PackagedOilResidue",
             "Amount": 1
         }
-    ]
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 10,
+    "ProducedIn": [ "Build_AB_FluidPacker" ]
 }

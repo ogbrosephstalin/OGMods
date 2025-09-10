@@ -1,19 +1,20 @@
-//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_Packager.Schematic_SF+_T5_Packager_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
-    "ClearRecipes": true,
+    "Name": "A.I. Packager Recipes",
+    "Type": "Custom",
     "Recipes":
     [
         "Recipe_PackagedFuel",
         "Recipe_PackagedBiofuel",
-        "Recipe_PackagedCrudeOil.",
-        "Recipe_PackagedOilResidue",
+        "Recipe_PackagedCrudeOil_canister",
+        "Recipe_PackagedOilResidue_canister",
         "Recipe_PackagedTurboFuel",
         "Recipe_PackagedWater",
-        "Recipe_UnpackageBioFuel",
+
         "Recipe_UnpackageFuel",
-        "Recipe_UnpackageOil",
-        "Recipe_UnpackageOilResidue",
+        "Recipe_UnpackageBioFuel",
+        "Recipe_UnpackageOil_canister",
+        "Recipe_UnpackageOilResidue_canister",
         "Recipe_UnpackageTurboFuel",
         "Recipe_UnpackageWater"
     ]

@@ -1,9 +1,9 @@
-//Game/FactoryGame/Recipes/OilRefinery/Recipe_UnpackageOil.Recipe_UnpackageOil_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "OverrideCategory": "Petroleum",
+    "Name": "Unpacked Crude Oil",
+    "OverrideCategory": "Cat_Unpackaging_Canister",
     "Ingredients":
-    [   
+    [
         {
             "Item": "Desc_PackagedOil",
             "Amount": 1
@@ -19,5 +19,8 @@
             "Item": "Desc_FluidCanister",
             "Amount": 1
         }
-    ]
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 10,
+    "ProducedIn": [ "Build_AB_FluidPacker" ]
 }
