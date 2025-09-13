@@ -1,0 +1,23 @@
+//KLib/Assets/Parts/Packaged/Recipes/UnPackaged/Recipe_UnPackaged_LiquidBrass.Recipe_UnPackaged_LiquidBrass_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "OverrideCategory": "Cat_Unpackaging_Hot",
+    "Ingredients": 
+    [
+        {
+            "Item": "Desc_PackagedLiquidBrass",
+            "Amount": 1
+        }
+    ],
+    "Products": 
+    [
+        {
+            "Item": "Desc_NC_HotFluid",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_LiquidBrass",
+            "Amount": 1000
+        }
+    ]
+}

@@ -2,5 +2,64 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
     "ClearSchematics": true,
-    "Schematics": [ "Schematic_T5_Packager_new" ]
+    "Recipes":  [
+                    "Recipe_Packaged_LiquidBioWater",
+                    "Recipe_PackagedWater",
+                    "Recipe_Packaged_Air",
+                    
+                    "Recipe_Packaged_LiquidIron",
+                    "Recipe_Packaged_LiquidCopper",
+                    "Recipe_Packaged_LiquidTin",
+                    "Recipe_Packaged_LiquidBrass",
+                    "Recipe_Packaged_LiquidSteel",
+
+                    "Recipe_Packaged_Gas_Steam_Hot",
+                    "Recipe_Packaged_Gas_CarbonDioxide",
+                    
+                    "Recipe_PackagedCrudeOil_canister",
+                    "Recipe_PackagedPureOil_canister",
+                    "Recipe_PackagedOilResidue_canister",
+                    "Recipe_Packaged_Methane",
+                    "Recipe_Packaged_NaturalGas",
+                    "Recipe_Fuel",
+
+                    "Recipe_Packaged_Gas_Hydrogen",
+                    "Recipe_Packaged_Sulfurtrixid",
+                    "Recipe_PackagedSulfuricAcid",
+                    "Recipe_PackagedBioFuel",
+                    
+                    "Recipe_Packaged_SlugSlime_Low",
+                    "Recipe_Packaged_SlugSlime_High",
+                    "Recipe_Packaged_SlugSlime_Mid",
+
+
+                    "Recipe_UnPackaged_LiquidBioWater",
+                    "Recipe_UnpackageWater",
+                    "Recipe_UnPackaged_Air",
+
+                    "Recipe_UnPackaged_LiquidIron",
+                    "Recipe_UnPackaged_LiquidCopper",
+                    "Recipe_UnPackaged_LiquidTin",
+                    "Recipe_UnPackaged_LiquidBrass",
+                    "Recipe_UnPackaged_LiquidSteel",
+                    
+                    "Recipe_UnPackaged_Gas_Steam_Hot",
+                    "Recipe_UnPackaged_Gas_CarbonDioxide",
+
+                    "Recipe_UnpackageOil_canister",
+                    "Recipe_UnpackagePureOil_canister",
+                    "Recipe_UnpackageOilResidue_canister",
+                    "Recipe_UnPackaged_Methane",
+                    "Recipe_UnPackaged_NaturalGas",
+                    "Recipe_UnpackageFuel",
+
+                    "Recipe_UnPackaged_Gas_Hydrogen",
+                    "Recipe_UnPackaged_Sulfurtrixid",
+                    "Recipe_UnpackageSulfuricAcid",
+                    "Recipe_UnpackageBioFuel",
+
+                    "Recipe_UnPackaged_SlugSlime_Low",
+                    "Recipe_UnPackaged_SlugSlime_High",
+                    "Recipe_UnPackaged_SlugSlime_Mid"
+                ]              
 }

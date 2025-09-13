@@ -1,0 +1,5 @@
+//KLib/Assets/Parts/Packaged/Recipes/Packaged/Recipe_Packaged_LiquidHydrochloricAcid_2.Recipe_Packaged_LiquidHydrochloricAcid_2_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "OverrideCategory": "Cat_Packaging_Acid"
+}

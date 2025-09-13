@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_Packager.Schematic_SF+_T5_Packager_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Name": "For Debug Only",
+    "Description": "Should Only Be De-selected in MAM Enhancer Debug Mode",
+    "Type": "Milestone",
+    "Tier": 5,
+    "MenuPriority": 5,
+    "Cost": 
+    [
+        {
+            "Item": "Desc_WAT2",
+            "Amount": 1000
+        },
+        {   "Item": "Desc_WAT1",
+            "Amount": 1000
+        }
+    ]
+}

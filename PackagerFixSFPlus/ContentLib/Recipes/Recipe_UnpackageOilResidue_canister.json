@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Unpacked Heavy Oil Residue",
+    "Name": "Unpackage Heavy Oil Residue",
     "OverrideCategory": "Cat_Unpackaging_Canister",
     "Ingredients":
     [

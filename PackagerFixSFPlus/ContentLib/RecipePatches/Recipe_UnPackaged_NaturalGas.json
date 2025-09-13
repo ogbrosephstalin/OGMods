@@ -1,0 +1,5 @@
+//KLib/Assets/Parts/Packaged/Recipes/UnPackaged/Recipe_UnPackaged_NaturalGas.Recipe_UnPackaged_NaturalGas_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "OverrideCategory": "Cat_Unpackaging_Gas"
+}

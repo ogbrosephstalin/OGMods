@@ -1,0 +1,5 @@
+//KLib/Assets/Parts/Packaged/Items/Gas/Desc_PackagedSulfurtrixid.Desc_PackagedSulfurtrixid_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Item.json",
+    "Name": "Packaged Sour Gas"
+}

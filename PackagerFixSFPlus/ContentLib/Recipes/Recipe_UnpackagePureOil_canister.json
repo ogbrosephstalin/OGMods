@@ -1,6 +1,7 @@
-//KLib/Assets/Parts/Packaged/Recipes/UnPackaged/Recipe_UnPackaged_PurifiedCrudeOil.Recipe_UnPackaged_PurifiedCrudeOil_C
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Unpack Purified Crude Oil",
+    "OverrideCategory": "Cat_Unpackaging_Canister",
     "Ingredients":
     [
         {
@@ -19,5 +20,8 @@
             "Item": "Desc_FluidCanister",
             "Amount": 1
         }
-    ]
+    ],
+    "ManufacturingDuration": 1,
+    "ManufacturingMenuPriority": 10,
+    "ProducedIn": [ "Build_AB_FluidPacker" ]
 }

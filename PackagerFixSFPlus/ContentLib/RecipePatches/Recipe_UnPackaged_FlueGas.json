@@ -1,0 +1,5 @@
+//KLib/Assets/Parts/Packaged/Recipes/UnPackaged/Recipe_UnPackaged_Gas_CarbonDioxide.Recipe_UnPackaged_Gas_CarbonDioxide_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name" : "Unpack Flue Gas"
+}
