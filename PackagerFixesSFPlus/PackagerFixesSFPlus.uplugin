@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0-alpha",
+	"SemVersion": "1.0.0-alpha",
+	"GameVersion": ">=416835",
+	"FriendlyName": "Packager Fixes SF Plus",
+	"Description": "Packager fixes for Satisfactory Plus",
+	"Category": "Modding",
+	"CreatedBy": "ogbrosephstalin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.8.0"
+		},
+		{
+			"Name": "MAMTips",
+			"Enabled": true,
+			"SemVersion": "^1.9.0"
+		},
+		{
+			"Name": "SFPlusFixesAlpha",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1.0.4"
+		}
+	]
+}

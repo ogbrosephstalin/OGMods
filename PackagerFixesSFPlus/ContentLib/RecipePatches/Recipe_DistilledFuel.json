@@ -1,0 +1,30 @@
+//SatisfactoryPlus/Content/Recipes/ChemicalReactor/Recipe_ChemReac_DistilledFuel.Recipe_ChemReac_DistilledFuel_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": 
+    [
+        {
+            "Item": "Desc_PurifiedCrudeOil",
+            "Amount": 3000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": 
+    [
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 2000
+        },
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 1
+        }
+    ]
+}
