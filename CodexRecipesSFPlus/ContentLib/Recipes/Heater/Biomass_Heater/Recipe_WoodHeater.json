@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Wood (Biomass Heater)",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_Wood",
+            "Amount": 72
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 45000
+        }
+    ],
+  "ManufacturingDuration": 120,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}

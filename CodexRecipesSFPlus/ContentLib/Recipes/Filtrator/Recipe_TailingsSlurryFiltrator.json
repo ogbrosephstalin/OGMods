@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Tailings Slurry (Filtrator)",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 20000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CrushedTin",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_ColdSlag",
+            "Amount": 5
+        }
+    ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}

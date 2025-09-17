@@ -1,0 +1,19 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_3.Schematic_SF+_T3_3_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": 
+    [
+        "Recipe_BiofuelHeater",
+        "Recipe_BiomassHeater",
+        "Recipe_CompactBiomassHeater",
+        "Recipe_FabricHeater",
+        "Recipe_LeavesHeater",
+        "Recipe_MyceliaHeater",
+        "Recipe_WoodHeater",
+
+        "Recipe_CarbonDustHeater",
+        "Recipe_CoalHeater",
+        "Recipe_PetroleumCokeHeater",
+        "Recipe_SulfurPowderHeater" 
+    ]
+}

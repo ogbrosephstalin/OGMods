@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Natural Gas (Solution Heater)",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_KLIB_NaturalGas",
+            "Amount": 3000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 1000
+        }
+    ],
+  "ManufacturingDuration": 6,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}

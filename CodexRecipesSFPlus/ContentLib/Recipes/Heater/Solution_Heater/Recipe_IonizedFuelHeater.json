@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Ionized Fuel (Solution Heater) Max Temp. 1185°",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_IonizedFuel",
+            "Amount": 1000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 4000
+        }
+    ],
+  "ManufacturingDuration": 12,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}

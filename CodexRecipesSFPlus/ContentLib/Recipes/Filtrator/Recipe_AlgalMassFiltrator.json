@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Biomass (Filtrator)",
+    "Ingredients":
+    [
+        {
+            "Item": "Res_LiquidBioWater",
+            "Amount": 1000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_GenericBiomass",
+            "Amount": 2
+        }
+    ],
+  "ManufacturingDuration": 2,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}

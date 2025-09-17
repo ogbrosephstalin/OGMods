@@ -1,0 +1,8 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_2.Schematic_SF+_T3_2_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": 
+    [
+        "Recipe_TailingsSlurryFiltrator"
+    ]
+}

@@ -1,0 +1,9 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T8/Schematic_SF+_T8_1.Schematic_SF+_T8_1_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": 
+    [
+        "Recipe_NuclearFuelRodHeater",
+        "Recipe_PlutFuelRodHeater"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Fuel (Solution Heater)",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 1000
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_FlueGas",
+            "Amount": 2000
+        }
+    ],
+  "ManufacturingDuration": 4,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_Packager" ]
+}
