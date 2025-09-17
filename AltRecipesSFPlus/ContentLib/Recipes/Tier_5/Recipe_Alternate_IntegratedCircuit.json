@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Integrated Circuits",
+    "Name": "Alternate: Integrated Circuits",
     "Ingredients":
     [
         {
@@ -20,7 +20,7 @@
     [
         {
             "Item": "Desc_CircuitBoard",
-            "Amount": 5
+            "Amount": 10
         }
     ],
   "ManufacturingDuration": 20,

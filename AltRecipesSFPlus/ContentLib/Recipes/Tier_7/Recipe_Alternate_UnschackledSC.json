@@ -1,29 +1,29 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Alternate: Steel-Cased Rifle Ammo",
+    "Name": "Alternate: Unshackled Supercomputer",
     "Ingredients":
     [
         {
-            "Item": "Desc_SteelPipe",
+            "Item": "Desc_Computer",
             "Amount": 3
         },
         {
-            "Item": "Desc_GunpowderMK2",
-            "Amount": 5
+            "Item": "Desc_CoolingSystem",
+            "Amount": 2
         },
         {
-            "Item": "Desc_LeadIngot",
-            "Amount": 3
+            "Item": "Desc_HighSpeedConnector",
+            "Amount": 2
         }                
     ],
     "Products":
     [
         {
-            "Item": "Desc_CartridgeStandard",
-            "Amount": 30
+            "Item": "Desc_ComputerSuper",
+            "Amount": 2
         }
     ],
-  "ManufacturingDuration": 20,
+  "ManufacturingDuration": 12,
   "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_ManufacturerMk1" ]
 }

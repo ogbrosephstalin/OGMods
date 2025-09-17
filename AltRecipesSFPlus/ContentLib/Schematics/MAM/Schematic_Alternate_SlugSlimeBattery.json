@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Slug Slime Battery",
+  "Type": "Alternate",
+  "VisualKit": "Desc_Battery",
+  "Recipes": [ "Recipe_Alternate_SlugSlimeBattery" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_4_2_NEW.Schematic_Trees_Slugs_4_2_NEW_C" ]
+}

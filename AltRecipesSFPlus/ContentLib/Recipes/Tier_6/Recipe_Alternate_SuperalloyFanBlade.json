@@ -9,7 +9,7 @@
         },
         {
             "Item": "Desc_Sand",
-            "Amount": 6
+            "Amount": 8
         },
         {
             "Item": "Desc_LiquidCobalt",
@@ -20,15 +20,11 @@
     [
         {
             "Item": "Desc_FanBlade",
-            "Amount": 4
-        },
-        {
-            "Item": "Desc_Gas_Steam_Hot",
-            "Amount": 12000
+            "Amount": 6
         },
         {
             "Item": "Desc_ColdSlag",
-            "Amount": 4
+            "Amount": 8
         }
     ],
   "ManufacturingDuration": 12,

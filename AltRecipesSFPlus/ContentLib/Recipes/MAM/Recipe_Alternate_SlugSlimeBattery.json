@@ -1,22 +1,22 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Alternate: Insulated Cable (Plastic)",
+    "Name": "Alternate: Slug Slime Battery",
     "Ingredients":
     [
         {
-            "Item": "Desc_Wire",
-            "Amount": 8
+            "Item": "Desc_PackagedSlugSlime_High",
+            "Amount": 6
         },
         {
-            "Item": "Desc_Plastic",
-            "Amount": 6
-        }              
+            "Item": "Desc_CateriumPlates",
+            "Amount": 3
+        }
     ],
     "Products":
     [
         {
-            "Item": "Desc_Cable",
-            "Amount": 16
+            "Item": "Desc_Battery",
+            "Amount": 9
         }
     ],
   "ManufacturingDuration": 12,
