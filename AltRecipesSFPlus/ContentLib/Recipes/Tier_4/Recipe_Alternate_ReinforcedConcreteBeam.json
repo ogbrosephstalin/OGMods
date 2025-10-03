@@ -9,17 +9,17 @@
         },
         {
             "Item": "Desc_Cement",
-            "Amount": 15
+            "Amount": 30
         }
     ],
     "Products":
     [
         {
             "Item": "Desc_SteelPlateReinforced",
-            "Amount": 1
+            "Amount": 2
         }
     ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_AssemblerMk1" ]
 }

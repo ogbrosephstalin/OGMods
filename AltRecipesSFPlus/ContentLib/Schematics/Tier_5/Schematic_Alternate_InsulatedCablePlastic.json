@@ -1,7 +1,7 @@
 {
-  "Name": "Insulated Cable (Plastic)",
+  "Name": "Plastic Coated Cable",
   "Type": "Alternate",
   "VisualKit": "Desc_Cable",
-  "Recipes": [ "Recipe_Alternate_InsulatedCablePlastic" ],
+  "Recipes": [ "Recipe_Alternate_PlasticCoatedCable" ],
   "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T5/Schematic_SF+_T5_1.Schematic_SF+_T5_2_1" ]
 }

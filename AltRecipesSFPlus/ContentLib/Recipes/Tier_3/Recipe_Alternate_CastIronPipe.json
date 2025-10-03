@@ -24,7 +24,7 @@
         },
         {
             "Item": "Desc_Gas_Steam_Hot",
-            "Amount": 12000
+            "Amount": 6000
         }
     ],
   "ManufacturingDuration": 12,

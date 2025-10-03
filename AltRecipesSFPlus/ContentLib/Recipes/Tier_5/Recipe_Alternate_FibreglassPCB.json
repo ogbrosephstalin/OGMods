@@ -1,15 +1,15 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Alternate: Integrated Circuits",
+    "Name": "Alternate: Fibreglass PCB",
     "Ingredients":
     [
         {
-            "Item": "Desc_Silica",
-            "Amount": 40
+            "Item": "Desc_Fabric",
+            "Amount": 20
         },
         {
-            "Item": "Desc_Sand",
-            "Amount": 40
+            "Item": "Desc_Glass",
+            "Amount": 20
         },
         {
             "Item": "Desc_CopperSheet",

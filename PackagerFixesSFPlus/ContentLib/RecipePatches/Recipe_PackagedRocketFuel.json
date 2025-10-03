@@ -1,5 +1,0 @@
-//Game/FactoryGame/Recipes/Packager/Recipe_PackagedRocketFuel.Recipe_PackagedRocketFuel_C
-{
-    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "OverrideCategory": "Cat_Packaging_Gas"
-}

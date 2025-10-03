@@ -1,8 +1,0 @@
-//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_4_2_NEW.Schematic_Trees_Slugs_4_2_NEW_C
-{
-    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
-    "Recipes": 
-    [
-        "Recipe_SlugSlimeFiltrator"
-    ]
-}

@@ -5,21 +5,21 @@
     [
         {
             "Item": "Desc_PackagedSlugSlime_High",
-            "Amount": 6
+            "Amount": 1
         },
         {
             "Item": "Desc_CateriumPlates",
-            "Amount": 3
+            "Amount": 2
         }
     ],
     "Products":
     [
         {
             "Item": "Desc_Battery",
-            "Amount": 9
+            "Amount": 4
         }
     ],
-  "ManufacturingDuration": 12,
+  "ManufacturingDuration": 24,
   "ManufacturingMenuPriority": 1,
   "ProducedIn": [ "Build_AssemblerMk1" ]
 }

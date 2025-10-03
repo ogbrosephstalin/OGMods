@@ -1,5 +1,0 @@
-//KLib/Assets/Parts/Packaged/Items/Cold/Desc_PackagedCoolingWater.Desc_PackagedCoolingWater_C
-{
-    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Item.json",
-    "Name": "Packaged Coolant"
-}

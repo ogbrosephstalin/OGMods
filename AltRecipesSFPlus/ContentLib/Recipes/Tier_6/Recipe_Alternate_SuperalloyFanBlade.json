@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Nickel-Superalloy Fan Blades",
+    "Name": "Nickel-Superalloy Turbine Blades",
     "Ingredients":
     [
         {
@@ -20,7 +20,7 @@
     [
         {
             "Item": "Desc_FanBlade",
-            "Amount": 6
+            "Amount": 12
         },
         {
             "Item": "Desc_ColdSlag",
