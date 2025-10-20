@@ -1,0 +1,9 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Hidden/Hidden_Farming_WetDirt_Water.Hidden_Farming_WetDirt_Water_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Recipes": [
+    "Recipe_SF+_Alt_Crop_Apple_C",
+    "Recipe_SF+_Alt_Crop_Cotton_C",
+    "Recipe_SF+_Alt_Crop_Mycelia2_C"
+  ]
+}

@@ -1,0 +1,18 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Schematic_Tree_Farming_Composter.Schematic_Tree_Farming_Composter_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Recipes": [
+    "Recipe_Compost_Apple_SF+",
+    "Recipe_Compost_Banana_SF+",
+    "Recipe_Compost_BioMass_SF+",
+    "Recipe_Compost_Carrot_SF+",
+    "Recipe_Compost_Corn_SF+",
+    "Recipe_Compost_Cotton_SF+",
+    "Recipe_Compost_Leaves_SF+",
+    "Recipe_Compost_Mycelia_SF+",
+    "Recipe_Compost_Potato_SF+",
+    "Recipe_Compost_Pumpkin_SF+",
+    "Recipe_Compost_Wheat_SF+",
+    "Recipe_Compost_Yosse_SF+"
+  ]
+}

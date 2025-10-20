@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": 
+    [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 4
+        },
+        
+        {
+            "Item": "Desc_AI_Limter",
+            "Amount": 1
+        }
+    ],
+    "Products": 
+    [
+        {
+            "Item": "Desc_ConveyorAttachmentMergerPriority",
+            "Amount": 1
+        }
+    ],
+  "ProducedIn": [ "BP_BuildGun" ]
+}

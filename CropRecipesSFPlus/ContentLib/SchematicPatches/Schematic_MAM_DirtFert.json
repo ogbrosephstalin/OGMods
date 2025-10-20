@@ -1,0 +1,10 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Hidden/Hidden_Farming_Dirt_Fert.Hidden_Farming_Dirt_Fert_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Recipes": [
+    "Recipe_SF+_Alt_Crop_Corn2_C",
+    "Recipe_SF+_Alt_Crop_Potato2_C",
+    "Recipe_SF+_Alt_Crop_Wheat2_C",
+    "Recipe_SF+_Alt_Crop_Carrot2_C"
+  ]
+}

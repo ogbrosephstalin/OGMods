@@ -1,0 +1,9 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Farming/Hidden/Hidden_Farming_FertDirt_Water.Hidden_Farming_FertDirt_Water_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Recipes": [
+    "Recipe_SF+_Alt_Crop_Banana_C",
+    "Recipe_SF+_Alt_Crop_Pumpkin_C",
+    "Recipe_SF+_Alt_Crop_YosseBerry_C"
+  ]
+}
