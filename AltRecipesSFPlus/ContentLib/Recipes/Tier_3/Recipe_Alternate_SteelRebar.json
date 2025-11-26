@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Alternate: Steel Rebar",
+    "Ingredients":
+    [
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 5
+        }
+    ],
+    "Products":
+    [
+        {
+            "Item": "Desc_SpikedRebar",
+            "Amount": 10
+        }
+    ],
+  "ManufacturingDuration": 15,
+  "ManufacturingMenuPriority": 1,
+  "ProducedIn": [ "Build_AssemblerMk1" ]
+}

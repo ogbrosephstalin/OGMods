@@ -1,0 +1,5 @@
+//SatisfactoryPlus/Schematic_Trees_Sulfur_5_6.Schematic_Trees_Sulfur_5_6_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": [ "Recipe_PackagedIonizedFuel", "Recipe_UnpackageIonizedFuel" ]
+}

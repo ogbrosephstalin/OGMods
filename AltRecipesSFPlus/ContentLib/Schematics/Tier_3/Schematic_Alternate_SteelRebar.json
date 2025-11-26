@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Steel Rebar",
+  "Type": "Alternate",
+  "VisualKit": "Desc_SpikedRebar",
+  "Recipes": [ "Recipe_Alternate_SteelRebar" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_4.Schematic_SF+_T3_4_C" ]
+}

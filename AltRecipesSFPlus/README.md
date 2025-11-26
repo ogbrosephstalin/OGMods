@@ -4,10 +4,10 @@
 |-------------------------------|-----------------------|--------------------------------------------------------------------|---------------------------------------------------|
 | Slug Slime Battery            | Assembler             | 2.5/m Packaged Energized Slug Slime<br>5/m Caterium Plate          | 10/m Battery                                      |
 | Dipped Tinned Wire            | Reformer              | 60/m Wire<br>30/m Molten Tin<br>30/m Air                          | 75/m Tinned Wire                                  |
-| Bolted Iron Plate             | Assembler             | 90/m Iron Plate<br>250/m Steel Bolt                               | 25/m Reinforced Iron Plate                        |
+| Steel Rebar                | Assembler                | 20/m Steel Rod<br>40/m Iron Rebar                              | 25/m Reinforced Iron Plate                        |
 | Cast Iron Pipe                | Reformer              | 60/m Molten Iron<br>30/m Sand                                     | 60/m Steel Pipe<br>30/m Steam                     |
 | Rolled Steel Pipe             | Constructor           | 75/m Steel Ingot                                                  | 50/m Steel Pipe                                   |
-| Reinforced Concrete Beam      | Assembler             | 37.5/m Steel Rod<br>75/m Concrete                                 | 5/m Encased Industrial Beam                       |
+| Reinforced Concrete Beam      | Assembler             | 50/m Iron Rebar<br>75/m Concrete                                 | 5/m Encased Industrial Beam                       |
 | Plastic Coated Cable          | Assembler             | 40/m Wire<br>30/m Plastic                                         | 60/m Cable                                        |
 | Fibreglass PCB                | Manufacturer          | 60/m Fabric<br>60/m Glass<br>60/m Copper Sheet                    | 30/m Circuit Board                                |
 | Steel-Cased Rifle Ammo        | Manufacturer          | 9/m Steel Pipe<br>15/m Smokeless Powder<br>9/m Lead Ingot         | 90/m Rifle Ammo                                   |

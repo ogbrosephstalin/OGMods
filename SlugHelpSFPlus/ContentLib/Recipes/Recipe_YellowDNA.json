@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": 
+    [
+        {
+            "Item": "Desc_Crystal_mk2",
+            "Amount": 1
+        }
+    ],
+    "Products": 
+    [
+        {
+            "Item": "Desc_EggDNA_Yellow",
+            "Amount": 10
+        }
+    ],
+    "ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 1,
+    "ProducedIn": [ "BP_WorkBenchComponent" ]
+}

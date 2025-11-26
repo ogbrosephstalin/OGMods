@@ -4,8 +4,8 @@
     "Ingredients":
     [
         {
-            "Item": "Desc_SteelRod",
-            "Amount": 15
+            "Item": "Desc_SpikedRebar",
+            "Amount": 20
         },
         {
             "Item": "Desc_Cement",

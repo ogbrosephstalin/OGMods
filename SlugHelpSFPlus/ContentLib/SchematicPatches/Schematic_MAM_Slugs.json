@@ -1,0 +1,9 @@
+//SatisfactoryPlus/Content/SchematicManager/MAM/Schematics/Slugs/Schematic_Trees_Slugs_3_0_NEW.Schematic_Trees_Slugs_3_0_NEW_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "Recipes": [
+    "Recipe_BlueDNA",
+    "Recipe_YellowDNA",
+    "Recipe_PurpleDNA"
+  ]
+}

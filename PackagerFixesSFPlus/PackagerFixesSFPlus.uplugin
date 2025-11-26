@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0-alpha",
-	"SemVersion": "1.0.0-alpha",
+	"VersionName": "1.0.1-alpha",
+	"SemVersion": "1.0.1-alpha",
 	"GameVersion": ">=416835",
 	"FriendlyName": "Packager Fixes SF Plus",
 	"Description": "Packager fixes for Satisfactory Plus",
