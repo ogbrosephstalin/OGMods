@@ -11,7 +11,7 @@
 | Plastic Coated Cable          | Assembler             | 40/m Wire<br>30/m Plastic                                         | 60/m Cable                                        |
 | Fibreglass PCB                | Manufacturer          | 60/m Fabric<br>60/m Glass<br>60/m Copper Sheet                    | 30/m Circuit Board                                |
 | Steel-Cased Rifle Ammo        | Manufacturer          | 9/m Steel Pipe<br>15/m Smokeless Powder<br>9/m Lead Ingot         | 90/m Rifle Ammo                                   |
-| Toxic Nobelisk                | Assembler             | 5/m Nobelisk<br>20/m Packaged Toxic Air                           | 5/m Gas Nobelisk                                  |
+| Toxic Nobelisk                | Assembler             | 5/m Nobelisk<br>10/m Packaged Toxic Air                           | 5/m Gas Nobelisk                                  |
 | Nickel-Superalloy Turbine Blades | Reformer            | 30/m Molten Nickel<br>30/m Molten Cobalt<br>40/m Sand             | 60/m Fan Blades<br>40/m Cold Slag                 |
 | Unshackled Supercomputer      | Manufacturer          | 15/m Computer<br>10/m Cooling System<br>10/m High-Speed Connector | 10/m Supercomputer                                |
 | Expanded Toolbelt             |                       |                                                                    | +1 Arm Slot                                       |
