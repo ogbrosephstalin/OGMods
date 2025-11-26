@@ -17,5 +17,5 @@
     ],
   "ManufacturingDuration": 15,
   "ManufacturingMenuPriority": 1,
-  "ProducedIn": [ "Build_AssemblerMk1" ]
+  "ProducedIn": [ "Build_ConstructorMk1" ]
 }
