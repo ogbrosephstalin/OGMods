@@ -6,7 +6,7 @@
 | Dipped Tinned Wire            | Reformer              | 60/m Wire<br>30/m Molten Tin<br>30/m Air                          | 75/m Tinned Wire                                  |
 | Steel Rebar                   | Constructor           | 20/m Steel Rod                                                    | 40/m Iron Rebar                        |
 | Cast Iron Pipe                | Reformer              | 60/m Molten Iron<br>30/m Sand                                     | 60/m Steel Pipe<br>30/m Steam                     |
-| Rolled Steel Pipe             | Constructor           | 75/m Steel Ingot                                                  | 50/m Steel Pipe                                   |
+| Rolled Steel Pipe             | Constructor           | 60/m Steel Ingot                                                  | 40/m Steel Pipe                                   |
 | Reinforced Concrete Beam      | Assembler             | 50/m Iron Rebar<br>75/m Concrete                                 | 5/m Encased Industrial Beam                       |
 | Plastic Coated Cable          | Assembler             | 40/m Wire<br>30/m Plastic                                         | 60/m Cable                                        |
 | Fibreglass PCB                | Manufacturer          | 60/m Fabric<br>60/m Glass<br>60/m Copper Sheet                    | 30/m Circuit Board                                |
