@@ -1,0 +1,7 @@
+{
+  "Name": "Alternate: Bolted Iron Plate",
+  "Type": "Alternate",
+  "VisualKit": "Desc_IronPlateReinforced",
+  "Recipes": [ "Recipe_Alternate_BoltedIronPlate" ],
+  "DependsOn": [ "/SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T3/Schematic_SF+_T3_4.Schematic_SF+_T3_4_C" ]
+}

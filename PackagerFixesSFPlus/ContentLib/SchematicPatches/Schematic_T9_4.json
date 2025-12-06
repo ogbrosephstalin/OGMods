@@ -1,0 +1,10 @@
+//SatisfactoryPlus/Content/SchematicManager/Schematics/Milestones/T9/Schematic_SF+_T9_2.Schematic_SF+_T9_2_C{
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes":
+    [
+        "Recipe_Packaged_SlugSlime_Mineral",
+        
+        "Recipe_UnPackaged_SlugSlime_Mineral"
+    ]
+}
